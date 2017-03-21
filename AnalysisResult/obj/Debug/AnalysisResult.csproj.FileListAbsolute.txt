@@ -1,0 +1,10 @@
+E:\编程\保山\保山市系统\AnalysisResult\AnalysisResult\obj\Debug\AnalysisResult.Properties.Resources.resources
+E:\编程\保山\保山市系统\AnalysisResult\AnalysisResult\obj\Debug\AnalysisResult.csproj.GenerateResource.Cache
+E:\编程\保山\保山市系统\AnalysisResult\AnalysisResult\bin\Debug\AnalysisResult.dll.config
+E:\编程\保山\保山市系统\AnalysisResult\AnalysisResult\bin\Debug\AnalysisResult.dll
+E:\编程\保山\保山市系统\AnalysisResult\AnalysisResult\bin\Debug\AnalysisResult.pdb
+E:\编程\保山\保山市系统\AnalysisResult\AnalysisResult\bin\Debug\MyPluginEngine.dll
+E:\编程\保山\保山市系统\AnalysisResult\AnalysisResult\bin\Debug\log4net.dll
+E:\编程\保山\保山市系统\AnalysisResult\AnalysisResult\bin\Debug\MyPluginEngine.pdb
+E:\编程\保山\保山市系统\AnalysisResult\AnalysisResult\obj\Debug\AnalysisResult.dll
+E:\编程\保山\保山市系统\AnalysisResult\AnalysisResult\obj\Debug\AnalysisResult.pdb
