@@ -29,7 +29,7 @@ namespace AnalysisResult
 
         public string Caption
         {
-            get { return "规划区建设用地冲突查询"; }
+            get { return "规划区建设用\r\n" + "地冲突查询"; }
         }
 
         public string Category

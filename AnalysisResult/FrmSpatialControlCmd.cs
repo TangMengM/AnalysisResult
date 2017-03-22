@@ -29,7 +29,7 @@ namespace AnalysisResult
 
         public string Caption
         {
-            get { return "空间管制区冲突及分区查询"; }
+            get { return "空间管制区冲突\r\n" + "及分区查询"; }
         }
 
         public string Category

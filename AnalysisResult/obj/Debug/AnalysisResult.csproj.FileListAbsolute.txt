@@ -8,3 +8,10 @@ E:\编程\保山\保山市系统\AnalysisResult\AnalysisResult\bin\Debug\log4net
 E:\编程\保山\保山市系统\AnalysisResult\AnalysisResult\bin\Debug\MyPluginEngine.pdb
 E:\编程\保山\保山市系统\AnalysisResult\AnalysisResult\obj\Debug\AnalysisResult.dll
 E:\编程\保山\保山市系统\AnalysisResult\AnalysisResult\obj\Debug\AnalysisResult.pdb
+C:\Users\Tangmeng\Desktop\多规合一数据管理系统\YNDQHP-master\插件代码\AnalysisResult\AnalysisResult\bin\Debug\AnalysisResult.dll.config
+C:\Users\Tangmeng\Desktop\多规合一数据管理系统\YNDQHP-master\插件代码\AnalysisResult\AnalysisResult\bin\Debug\AnalysisResult.dll
+C:\Users\Tangmeng\Desktop\多规合一数据管理系统\YNDQHP-master\插件代码\AnalysisResult\AnalysisResult\bin\Debug\AnalysisResult.pdb
+C:\Users\Tangmeng\Desktop\多规合一数据管理系统\YNDQHP-master\插件代码\AnalysisResult\AnalysisResult\obj\Debug\AnalysisResult.Properties.Resources.resources
+C:\Users\Tangmeng\Desktop\多规合一数据管理系统\YNDQHP-master\插件代码\AnalysisResult\AnalysisResult\obj\Debug\AnalysisResult.csproj.GenerateResource.Cache
+C:\Users\Tangmeng\Desktop\多规合一数据管理系统\YNDQHP-master\插件代码\AnalysisResult\AnalysisResult\obj\Debug\AnalysisResult.dll
+C:\Users\Tangmeng\Desktop\多规合一数据管理系统\YNDQHP-master\插件代码\AnalysisResult\AnalysisResult\obj\Debug\AnalysisResult.pdb

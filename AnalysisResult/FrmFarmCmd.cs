@@ -31,7 +31,7 @@ namespace AnalysisResult
 
         public string Caption
         {
-            get { return "基本农田/林地冲突查询"; }
+            get { return "基本农田/林地\r\n"+"冲突查询"; }
         }
 
         public string Category
